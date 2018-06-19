@@ -1,0 +1,4 @@
+{
+    "port":5110,
+    "s3Bucket": "your.mail.bucket.com"
+}
